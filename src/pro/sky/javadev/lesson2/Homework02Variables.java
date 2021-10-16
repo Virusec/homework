@@ -1,6 +1,6 @@
-package pro.sky.javadev.hw2;
+package pro.sky.javadev.lesson2;
 
-public class Lesson2Hw {
+public class Homework02Variables {
     public static void main(String[] args) {
         task1();
         task2();
