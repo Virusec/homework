@@ -1,4 +1,4 @@
-package pro.sky.javadev.course1.Lesson4Cycles;
+package pro.sky.javadev.lesson4;
 
 public class Homework04Cycles {
     public static void main(String[] args) {
